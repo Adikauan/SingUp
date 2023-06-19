@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "cG1MKqdL25ZwNxFA5aoceRabpydCCOHcDh1n8H6ZktYKFBEljlH+Pd1LMi8I7pakH73gZXixQ+YZdpuZuiwfJw==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\MassTransit\\MassTransit.SingUp\\MassTransit.SingUp.Application\\MassTransit.SingUp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kauan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\masstransit\\8.0.16\\masstransit.8.0.16.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\masstransit.abstractions\\8.0.16\\masstransit.abstractions.8.0.16.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\masstransit.extensions.dependencyinjection\\7.3.1\\masstransit.extensions.dependencyinjection.7.3.1.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\6.0.1\\microsoft.extensions.diagnostics.healthchecks.6.0.1.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\6.0.1\\microsoft.extensions.diagnostics.healthchecks.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\6.0.0\\microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\system.text.json\\6.0.7\\system.text.json.6.0.7.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

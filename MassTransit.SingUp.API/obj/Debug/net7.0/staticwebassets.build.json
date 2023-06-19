@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bC3BypXuZdD9daknD67rcfSKo1TmaAfTKiGZAz6FqF8=",
+  "Source": "MassTransit.SingUp.API",
+  "BasePath": "_content/MassTransit.SingUp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
